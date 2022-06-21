@@ -44,11 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutagengwa-asante-bruce&" alt="rutagengwa-asante-bruce" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
+
 Tip💰
 Buy ko-fi for rahuldkjainBuy me a ko-fi
 Donate rahuldkjain via paypal
