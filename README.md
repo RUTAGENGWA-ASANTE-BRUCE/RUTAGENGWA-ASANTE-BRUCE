@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+10436
+Fork on GitHub
+2614
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm RUTAGENGWA ASANTE BRUCE</h1>
 <h3 align="center">A passionate full stack developer from Rwanda</h3>
 
@@ -9,7 +25,7 @@
 
 - 🔭 I’m currently working on [Spider-Lotus Project](https://e-commerce-psi-livid.vercel.app/)
 
-- 👯 I’m looking to collaborate on [https://e-commerce-psi-livid.vercel.app/](https://e-commerce-psi-livid.vercel.app/)
+- 🌱 I’m currently learning **Data science, AI and automation with Python**
 
 - 💬 Ask me about **React,React Native, Vue, PHP Code Ignitor,Sping Boot,Next JS,Python,TypeScript,C,Java, EXpress JS**
 
@@ -43,3 +59,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutagengwa-asante-bruce&show_icons=true&locale=en" alt="rutagengwa-asante-bruce" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutagengwa-asante-bruce&" alt="rutagengwa-asante-bruce" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
