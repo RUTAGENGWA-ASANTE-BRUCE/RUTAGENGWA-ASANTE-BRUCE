@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RUTAGENGWA ASANTE BRUCE</h1>
-<h3 align="center">A passionate full stack developer from Rwanda</h3>
 <p>I am Samuel Dushimimana, a final year student in Software Engineering and Embedded Systems at Rwanda Coding Academy. I have 4 years of experience in building full stack applications. I am mostly familiar to work with React , good at Angular and Vue on the frontend Side. I am a great friend of Java , PHP , Node Js and C++ on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several startups and client's demanded projects so far. Enthusiastically keen about working on optimization problems from Maths , Machine Learing , Data structures and Algorithms .</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutagengwa-asante-bruce&label=Profile%20views&color=0e75b6&style=flat" alt="rutagengwa-asante-bruce" /> </p>
 
