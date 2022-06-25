@@ -3,7 +3,7 @@
 <p>I am Samuel Dushimimana, a final year student in Software Engineering and Embedded Systems at Rwanda Coding Academy. I have 4 years of experience in building full stack applications. I am mostly familiar to work with React , good at Angular and Vue on the frontend Side. I am a great friend of Java , PHP , Node Js and C++ on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several startups and client's demanded projects so far. Enthusiastically keen about working on optimization problems from Maths , Machine Learing , Data structures and Algorithms .</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutagengwa-asante-bruce&label=Profile%20views&color=0e75b6&style=flat" alt="rutagengwa-asante-bruce" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutagengwa-asante-bruce" alt="rutagengwa-asante-bruce" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rutagengwabruce" target="blank"><img src="https://img.shields.io/twitter/follow/rutagengwabruce?logo=twitter&style=for-the-badge" alt="rutagengwabruce" /></a> </p>
 
