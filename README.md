@@ -2,6 +2,7 @@
 <p>Student in Software Engineering and Embedded Systems at Rwanda Coding Academy. I have 4 years of experience in building full stack applications. I am mostly familiar to work with React , good at Angular and Vue on the frontend Side. I am a great friend of Java , PHP , Node Js and C++ on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several startups and client's demanded projects so far. Enthusiastically keen about working on optimization problems from Maths , Machine Learing , Data structures and Algorithms .</p>
 
 
+- 🔭 [Personal portfolio](https://portfolio-sable-xi.vercel.app/)
 - 🔭 I’m currently working on [Spider-Lotus Project](https://e-commerce-psi-livid.vercel.app/)
 
 - 🌱 I’m currently learning **Data science, AI and automation with Python**
