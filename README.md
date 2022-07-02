@@ -12,7 +12,7 @@
 - 📫 How to reach me **rutagengwabruce@gmail.com**
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Rutagengwa Asante Bruce"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rutagengwa Asante Bruce" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rutagengwaL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rutagengwa Asante Bruce" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
