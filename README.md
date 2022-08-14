@@ -3,7 +3,7 @@
 
 
 - 🔭 [Personal portfolio](https://rutagengwa-asante-bruce.vercel.app/)
-- 🔭 I’m currently working on [Laraback project](https://laraback.vercel.app/) and [Spider-Lotus Project](https://e-commerce-psi-livid.vercel.app/)
+- 🔭 Worked on [Laraback project](https://laraback.vercel.app/) and [Spider-Lotus Project](https://e-commerce-psi-livid.vercel.app/)
 
 - 🌱 I’m currently learning **Data science, AI and automation with Python**
 
