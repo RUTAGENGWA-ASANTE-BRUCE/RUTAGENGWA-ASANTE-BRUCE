@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RUTAGENGWA ASANTE BRUCE</h1>
-<p>Professional Software developer, studied  at Rwanda Coding Academy. I have 7 years of experience in building full stack applications and Embedded systems. I am mostly familiar to work with React , good at Angular and Vue on the frontend Side. I am a great friend of Java , PHP , Node Js and C++ on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several startups and client's demanded projects so far. Enthusiastically keen about working on optimization problems from Maths , Machine Learing , Data structures and Algorithms .</p>
+<p>Professional Software developer, studied  at Rwanda Coding Academy. I have 4 years of experience in building full stack applications and Embedded systems. I am mostly familiar to work with React , good at Angular and Vue on the frontend Side. I am a great friend of Java , PHP , Node Js and C++ on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several startups and client's demanded projects so far. Enthusiastically keen about working on optimization problems from Maths , Machine Learing , Data structures and Algorithms .</p>
 
 
 - 🔭 [Personal portfolio](https://rutagengwa-asante-bruce.vercel.app/)
