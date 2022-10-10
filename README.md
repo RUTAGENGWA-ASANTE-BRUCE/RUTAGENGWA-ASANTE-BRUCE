@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RUTAGENGWA ASANTE BRUCE</h1>
-<p>Professional Software developer, studied  at Rwanda Coding Academy. I have 4 years of experience in building full stack applications and Embedded systems. I am mostly familiar to work with React, Next JS, good at Angular and Vue on the frontend Side. I am a great friend of Java , PHP , Node Js and C++ on the backend. I am passionate about dealing with complex tasks and approaching difficult problems.I have worked on several startups and client's demanded projects so far. Enthusiastically keen about working on optimization problems from Maths , Machine Learing , Data structures and Algorithms .</p>
+<p>Dedicated and efficient full stack developer with 4+ years experience in application layers, presentation layers, and databases. Experienced in both F/E and B/E technologies. Spear headed successful transition from MERN stack to MEAN which cut latency by 40% and increased effectiveness of database administrators by 20 %. Seeking to further improve HTML5 and CSS 3 skills as the future full stack developer at Atmospheric Solutions.</p>
 
 
 - 🔭 [Personal portfolio](https://rutagengwa-asante-bruce.vercel.app/)
