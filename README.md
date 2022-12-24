@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RUTAGENGWA ASANTE BRUCE</h1>
-<p>Dedicated and efficient full stack developer with 4+ years experience in application layers, presentation layers, and databases. Experienced in both F/E and B/E technologies. Spear headed successful transition from MERN stack to MEAN which cut latency by 40% and increased effectiveness of database administrators by 20 %. Seeking to further improve HTML5 and CSS 3 skills as the future full stack developer at Atmospheric Solutions.</p>
+<p>Dedicated and efficient full stack developer. Experienced in both F/E and B/E technologies. Spear headed successful transition from MERN stack to MEAN which cut latency by 40% and increased effectiveness of database administrators by 20 %. Seeking to further improve HTML5 and CSS 3 skills as the future full stack developer at Atmospheric Solutions.</p>
 
 
 - 🔭 [Personal portfolio](https://rutagengwa-asante-bruce.vercel.app/)
