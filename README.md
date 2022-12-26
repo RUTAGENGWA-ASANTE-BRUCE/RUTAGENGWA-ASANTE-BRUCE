@@ -39,8 +39,8 @@ const rutagengwa_asante_bruce = {
                     dart: ["Flutter"]
         },
         machineLearning: {
-                            native: ["Guided | Supervised Machine Learning", "Unguided | Unsupervised Machine Learning", "Reinforcement Machine Learning"],
-                            python: ["tensorflow", "open-cv", "media pipe", "pyttsx3", "pygame"]
+                     native: ["Guided | Supervised Machine Learning", "Unguided | Unsupervised Machine Learning", "Reinforcement Machine Learning"],
+                     python: ["tensorflow", "open-cv", "media pipe", "pyttsx3", "pygame"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "PostGresql", "sqlite"],
