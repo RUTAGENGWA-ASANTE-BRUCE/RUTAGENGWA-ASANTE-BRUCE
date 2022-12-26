@@ -25,10 +25,10 @@ const rutagengwa_asante_bruce = {
     askMeAbout: ["web dev", "mobile dev", "app dev"],
     technologies: {
         frontend:{
-            js:["React", "Angular","Vue","Svelte"]
+            js:["React", "Angular", "Next js", "Nuxt js", "Vue","Svelte"]
         },
         backEnd: {
-            js: ["Node", "Fastify", "Express","Nest js"],
+            js: ["Node", "Fastify", "Express","Nest js", "GraphQl"],
             java: ["Spring boot"],
             php: ["Laravel"]
         },
