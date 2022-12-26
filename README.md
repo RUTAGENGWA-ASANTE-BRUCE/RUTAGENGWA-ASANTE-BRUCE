@@ -20,6 +20,7 @@ npx rutagengwabruce
 
 ```javascript
 const rutagengwa_asante_bruce = {
+    email: "rutagengwabruce@gmail.com",
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "mobile dev", "app dev", "machine learning"],
