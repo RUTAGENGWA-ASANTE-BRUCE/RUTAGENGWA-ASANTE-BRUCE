@@ -43,7 +43,7 @@ const rutagengwa_asante_bruce = {
         databases: ["mongo", "MySql", "PostGresql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
         machineLearning: {
-                            native: ["Guided | Supervised Machine Learning, "Unguided | Unsupervised Machine Learning", "Reinforcement Machine Learning"],
+                            native: ["Guided | Supervised Machine Learning", "Unguided | Unsupervised Machine Learning", "Reinforcement Machine Learning"],
                             python: ["tensorflow", "open-cv", "media pipe", "pyttsx3", "pygame"]
         }
     },
