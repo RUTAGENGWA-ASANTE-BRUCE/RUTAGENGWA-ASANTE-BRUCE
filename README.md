@@ -41,7 +41,11 @@ const rutagengwa_asante_bruce = {
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "PostGresql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
+        machineLearning: {
+                            native: ["Guided/Supervised Machine Learning, "Unguided/Unsupervised Machine Learning", "Reinforcement Machine Learning"],
+                            python: ["tensorflow", "open-cv", "media pipe", "pyttsx3", "pygame"]
+        }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
