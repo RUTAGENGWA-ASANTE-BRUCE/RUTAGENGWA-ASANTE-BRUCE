@@ -22,7 +22,7 @@ npx rutagengwabruce
 const rutagengwa_asante_bruce = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "mobile dev", "app dev"],
+    askMeAbout: ["web dev", "mobile dev", "app dev", "machine learning"],
     technologies: {
         frontend:{
             js:["React", "Angular", "Next js", "Nuxt js", "Vue","Svelte"]
@@ -37,15 +37,14 @@ const rutagengwa_asante_bruce = {
             tech: {
                     js: ["React Native"],
                     dart: ["Flutter"]
-             }
+        },
+        machineLearning: {
+                            native: ["Guided | Supervised Machine Learning", "Unguided | Unsupervised Machine Learning", "Reinforcement Machine Learning"],
+                            python: ["tensorflow", "open-cv", "media pipe", "pyttsx3", "pygame"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "PostGresql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
-        machineLearning: {
-                            native: ["Guided | Supervised Machine Learning", "Unguided | Unsupervised Machine Learning", "Reinforcement Machine Learning"],
-                            python: ["tensorflow", "open-cv", "media pipe", "pyttsx3", "pygame"]
-        }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
